@@ -3,7 +3,7 @@
 //  LanguageSettingDemo
 //
 //  Created by 孙浩 on 2019/2/17.
-//  Copyright © 2019 rongcloud. All rights reserved.
+//  Copyright © 2019 HarrySun. All rights reserved.
 //
 
 #import "LanguageManager.h"
