@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  LanguageDemo
+
+  Created by 孙浩 on 2019/3/5.
+  Copyright © 2019 HarrySun. All rights reserved.
+*/
+
+"firstVC" = "firstVC";
+"secondVC" = "secondVC";
+"test" = "test";
+"zh-Hans" = "zh-Hans";
+"en" = "English";
+"reset" = "reset";
